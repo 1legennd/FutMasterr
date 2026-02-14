@@ -1,4 +1,3 @@
-
 const { Client, GatewayIntentBits, AttachmentBuilder } = require('discord.js');
 
 const client = new Client({
